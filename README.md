@@ -13,7 +13,7 @@ Voicebid is a project designed to enable voice-based bidding functionality. This
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/yourusername/voicebid.git
-    cd voicebid
+    cd voicebid-pro
     ```
 
 2. **Install dependencies:**
