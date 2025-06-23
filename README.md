@@ -1,4 +1,4 @@
-# Voicebid
+# Voicebid-pro
 
 Voicebid is a project designed to enable voice-based bidding functionality. This repository contains the source code and resources for building, running, and contributing to the Voicebid application.
 
