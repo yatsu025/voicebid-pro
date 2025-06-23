@@ -12,7 +12,7 @@ Voicebid is a project designed to enable voice-based bidding functionality. This
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/voicebid.git
+    git clone https://github.com/yatsu025/voicebid-pro.git
     cd voicebid-pro
     ```
 
