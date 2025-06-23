@@ -95,22 +95,6 @@ Then open: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🧪 Voice Bidding Demo (Web Speech API)
-
-1. Click the 🎤 microphone button.
-2. Say: `Bid 400 on PS5`
-3. The bid will be placed in real-time!
-
----
-
-## 🎥 Demo Video Script (for judges)
-
-> "Welcome to Voicebid Pro. I can bid just by speaking.
-> Watch this: ‘Bid 500 on PS5’ – and the UI updates instantly.
-> No clicks, just voice. Simple, fast, and fun."
-
----
-
 ## ✅ Submission Checklist
 
 * ✅ Working voice bidding + UI
