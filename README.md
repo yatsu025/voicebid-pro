@@ -1,30 +1,40 @@
-# VoiceBid Pro Project
+# Voicebid
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Voicebid is a project designed to enable voice-based bidding functionality. This repository contains the source code and resources for building, running, and contributing to the Voicebid application.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/yashsrivastava1808-gmailcoms-projects/v0-voice-bid-pro-project)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/VgQvsTai3rC)
+## Features
 
-## Overview
+- Voice recognition for bidding
+- Real-time auction updates
+- User-friendly interface
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## Getting Started
 
-## Deployment
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/yourusername/voicebid.git
+    cd voicebid
+    ```
 
-Your project is live at:
+2. **Install dependencies:**
+    ```bash
+    npm install
+    ```
 
-**[https://vercel.com/yashsrivastava1808-gmailcoms-projects/v0-voice-bid-pro-project](https://vercel.com/yashsrivastava1808-gmailcoms-projects/v0-voice-bid-pro-project)**
+3. **Start the application:**
+    ```bash
+    npm start
+    ```
 
-## Build your app
+## Folder Structure
 
-Continue building your app on:
+- `/src` - Main source code
+- `/public` - Static assets
 
-**[https://v0.dev/chat/projects/VgQvsTai3rC](https://v0.dev/chat/projects/VgQvsTai3rC)**
+## Contributing
 
-## How It Works
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## License
+
+This project is licensed under the MIT License.
